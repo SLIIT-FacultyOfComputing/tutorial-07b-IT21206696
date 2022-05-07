@@ -3,7 +3,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
   // ========= DO NOT CHANGE THE INPUT CODE BELOW ==================
    int length, width, radius;
    cout << "Enter length of Rectangle : ";

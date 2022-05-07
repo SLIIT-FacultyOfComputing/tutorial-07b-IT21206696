@@ -1,10 +1,12 @@
 #include <iostream>
 #include "Item.h"
+
 using namespace std;
 
 // DO NOT CHANGE THIS CODE
 
-int main() {
+int main() 
+{
     Item myItem;
     myItem.display();
     Item myItem2(100, 1000);
